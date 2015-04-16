@@ -42,7 +42,7 @@ use vars qw(
 our $pluginName = 'TreePlugin';
 our $SHORTDESCRIPTION =
 "Renders topics' parent-child relationships as hierarchical tree view. Useful for dynamic site maps and threads.";
-our $VERSION = '$Rev$';
+our $VERSION = '1.9.1';
 our $RELEASE = '1.9.1';
 our $RootLabel =
   "_RootLabel_";    # what we use to label the root of a tree if not a topic
